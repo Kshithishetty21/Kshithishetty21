@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kshithi S Shetty
 
 ## 🎓 About Me
-I'm a passionate and driven student at **NMAM Institute of Technology, Udupi**, pursuing my degree in **Information Science and Engineering**. I love exploring new technologies, solving problems, and building innovative projects. My interests include **Artificial Intelligence**, **Machine Learning**, **Web Development**, **Cyber Security** and **Data Science**.
+I'm a passionate and driven student at **NMAM Institute of Technology, Udupi**, pursuing my degree in **Information Science and Engineering**.
 
 ---
 
@@ -13,17 +13,6 @@ I'm a passionate and driven student at **NMAM Institute of Technology, Udupi**, 
 - C/C++ 🖥️
 - JavaScript 🌐
 - SQL 📊
-
-### **Frameworks and Libraries**
-- TensorFlow (Machine Learning)
-- React.js, Node.js (Web Development)
-- Pandas, NumPy, Matplotlib (Data Science)
-
-### **Tools and Platforms**
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- AWS (Basics)
 
 ---
 
@@ -54,14 +43,4 @@ Here are some of the projects I've worked on:
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out:
 
 - **Email**: [kshithishetty21@gmail.com](mailto:kshithishetty21@gmail.com)  
-- **LinkedIn**: [Kshithi S Shetty](https://www.linkedin.com/in/kshithisshetty21/)  
-- **GitHub**: [Kshithishetty21](https://github.com/Kshithishetty21)   
-
----
-
-## 🌟 **Support My Work**
-If you find my projects interesting, consider giving them a ⭐ **star** on GitHub! Your support motivates me to keep building and learning.
-
----
-
-**Stay curious, keep coding!** 🚀
+- **LinkedIn**: [Kshithi S Shetty](https://www.linkedin.com/in/kshithisshetty21/)   
