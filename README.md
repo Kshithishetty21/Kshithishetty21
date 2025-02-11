@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 ### **1. College Canteen Website**
 - Developed a website for the college canteen to streamline food ordering and payment processes.
 - Technologies: **HTML, CSS, JavaScript, MongoDB**.
-- [View Project on GitHub](https://github.com/Kshithishetty21/College-Canteen-Website)
+- [View Project on GitHub](https://github.com/Kshithishetty21/CSI-Project)
 
 ### **2. Graphical Interface for Flow Data Processing**
 - Created a graphical interface for flow data processing, curve fitting, and visualization at **Autoliv Private Limited India**.
